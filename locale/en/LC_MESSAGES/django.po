@@ -1,0 +1,98 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-21 22:19+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\AppMymoney\templates\index.html:12
+msgid "Perihan'ın hobi dünyasına hoş geldiniz!"
+msgstr ""
+
+#: .\AppMymoney\templates\index.html:17 .\AppMymoney\templates\index.html:43
+msgid "Haydı Satın al"
+msgstr ""
+
+#: .\AppMymoney\templates\index.html:38
+msgid "El emeği göz nuru"
+msgstr "hey you"
+
+#: .\AppMymoney\templates\index.html:82
+msgid "Güvenli alışveriş"
+msgstr ""
+
+#: .\AppMymoney\templates\index.html:83
+#, python-format
+msgid ""
+"%%100 emek sonucu üretilen ürünlerimizin satılıyor olmasından çok sevilerek "
+"kullanılıyor olması bizler için motivasyon kaynağı."
+msgstr ""
+
+#: .\AppMymoney\templates\index.html:96
+msgid "Kalite Güvencesi"
+msgstr ""
+
+#: .\AppMymoney\templates\index.html:98
+msgid ""
+"Ürünlerimiz birinci sınıf ip ve aksesuarlar kullanılarak üretilmektedir."
+msgstr ""
+
+#: .\AppMymoney\templates\index.html:110
+msgid "Ulaşılabilir Fiyatlar"
+msgstr ""
+
+#: .\AppMymoney\templates\index.html:111
+msgid ""
+"Maksimum kalite, minimum fiyatlandırmalar ile herkes için ulaşılabilir ve "
+"kaliteli seçimler."
+msgstr ""
+
+#: .\AppMymoney\templates\index.html:124
+msgid "Güvenli Kargo"
+msgstr ""
+
+#: .\AppMymoney\templates\index.html:126
+msgid ""
+"En güvenilir kargo şirketleri aracılığıyla ürünlerimizi özenli paketleme ile "
+"sizlere ulaştırıyoruz."
+msgstr ""
+
+#: .\AppMymoney\templates\index.html:140
+msgid "Çanta ve Aksesuar"
+msgstr ""
+
+#: .\AppMymoney\templates\partials\_header.html:62
+msgid "Ana Sayfa"
+msgstr ""
+
+#: .\AppMymoney\templates\partials\_header.html:65
+msgid "Çanta"
+msgstr ""
+
+#: .\AppMymoney\templates\partials\_header.html:68
+msgid "Yetişkin Giyim"
+msgstr ""
+
+#: .\AppMymoney\templates\partials\_header.html:71
+msgid "Çocuk-Bebek Giyim"
+msgstr ""
+
+#: .\AppMymoney\templates\partials\_header.html:74
+msgid "cüzdan"
+msgstr ""
+
+#~ msgid "Mobil Ürünler"
+#~ msgstr "Mobile Product"
